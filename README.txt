@@ -7,5 +7,6 @@ Made with :
   -Ultrasonic
   -Database menggunakan mysql / phpmyadmin
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Hal yang perlu diperhatikan :
+- Calibration needed when started
 
