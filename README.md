@@ -1,10 +1,11 @@
 # Body-Mass-Index-Calculator
 Made with :
-  -ESP32
-  -Load Cell 150 kg max
-  -HX711_ADC
-  -Ultrasonic
-  -Database using mysql / phpmyadmin
+- ESP32
+- 150 KG Load Cell
+- HX711_ADC
+- Ultrasonic sensors
+- Mysql / phpmyadmin
+
 *Calibration needed when it cold started
 
 #Was hosted with webhost000.com to gain easy access and Realtime data acquisition
