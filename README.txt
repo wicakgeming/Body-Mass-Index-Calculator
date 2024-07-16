@@ -1,12 +1,11 @@
 # Body-Mass-Index-Calculator
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Made with :
   -ESP32
   -Load Cell 150 kg max
   -HX711_ADC
   -Ultrasonic
-  -Database menggunakan mysql / phpmyadmin
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hal yang perlu diperhatikan :
-- Calibration needed when started
+  -Database using mysql / phpmyadmin
+
+
+#Calibration needed when it cold started
 
